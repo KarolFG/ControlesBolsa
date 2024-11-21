@@ -1,0 +1,38 @@
+# Ignore the build output directories 
+bin/ 
+obj/ 
+
+# Ignore user-specific files and directories 
+.vscode/ 
+.vscode/* 
+*.user 
+*.suo 
+*.userosscache 
+*.sln.docstates 
+
+# Ignore .NET and Blazor specific files 
+*.swp 
+*.ide 
+*.log 
+*.temp 
+*.TMP 
+*.bak 
+
+# Ignore publish directory 
+publish/ 
+
+# Ignore package directories 
+packages/ 
+node_modules/ 
+
+# Ignore the Visual Studio Code workspace file 
+.vscode/ 
+
+# Ignore sensitive or configuration files 
+appsettings.json 
+appsettings.Development.json 
+
+# Ignore local configurations 
+*.local.json 
+*.local.config 
+*.secret
