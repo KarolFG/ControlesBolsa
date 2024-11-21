@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2glGeUzT6eIfScidSP/5Qj/DlZiaDyZBuoAt8PcPnfK0ySEY3oD4fS6wQVJOPCfq+KDK0wFmfD62VF7HSBkRQ==",
+  "dgSpecHash": "H2sM0ezQVqcGVy8ns6V8WrhBSHrYgq/MqLX5zxvZwV7vb6PzIqebc/7quwAVu4XDng7EaKSUViENrslAxiFw/w==",
   "success": true,
-  "projectFilePath": "C:\\repo\\ControlesBolsa\\ControlesBolsa\\Server\\ControlesBolsa.Server.csproj",
+  "projectFilePath": "C:\\repo\\ContolesBolsa\\ControlesBolsa\\Server\\ControlesBolsa.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karol\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\karol\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\microsoft.aspnetcore.components.7.0.5.nupkg.sha512",

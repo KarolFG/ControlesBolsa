@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\ControlesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj": {}
+    "C:\\repo\\ContolesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj": {}
   },
   "projects": {
-    "C:\\repo\\ControlesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj": {
+    "C:\\repo\\ContolesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\ControlesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj",
+        "projectUniqueName": "C:\\repo\\ContolesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj",
         "projectName": "ControlesBolsa.Shared",
-        "projectPath": "C:\\repo\\ControlesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj",
+        "projectPath": "C:\\repo\\ContolesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj",
         "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\ControlesBolsa\\ControlesBolsa\\Shared\\obj\\",
+        "outputPath": "C:\\repo\\ContolesBolsa\\ControlesBolsa\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karol\\AppData\\Roaming\\NuGet\\NuGet.Config",

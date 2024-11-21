@@ -9,25 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ControlesBolsa.Client
 build_property.RootNamespace = ControlesBolsa.Client
-build_property.ProjectDir = C:\repo\ControlesBolsa\ControlesBolsa\Client\
+build_property.ProjectDir = C:\repo\ContolesBolsa\ControlesBolsa\Client\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\repo\ControlesBolsa\ControlesBolsa\Client
+build_property.MSBuildProjectDirectory = C:\repo\ContolesBolsa\ControlesBolsa\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/repo/ControlesBolsa/ControlesBolsa/Client/App.razor]
+[C:/repo/ContolesBolsa/ControlesBolsa/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/repo/ControlesBolsa/ControlesBolsa/Client/MainLayout.razor]
+[C:/repo/ContolesBolsa/ControlesBolsa/Client/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/repo/ControlesBolsa/ControlesBolsa/Client/Pages/Index.razor]
+[C:/repo/ContolesBolsa/ControlesBolsa/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/repo/ControlesBolsa/ControlesBolsa/Client/_Imports.razor]
+[C:/repo/ContolesBolsa/ControlesBolsa/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

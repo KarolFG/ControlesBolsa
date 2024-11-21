@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kAn/2irRbCQNlgLe4TwbW0SuKrV5bcdVklvSs4W907axIP7KBgx1amvG7lLLVTCdQUeDdfCTnaERxfQlhUjyyQ==",
+  "dgSpecHash": "yvq4PcYgWuqdh5/suuuBWaXHRTnHvYQVFTqdp2v3ta6r6x78ho17kHKrC0EFwZEw9A00eMAMg41I6FlicVRkIg==",
   "success": true,
-  "projectFilePath": "C:\\repo\\ControlesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj",
+  "projectFilePath": "C:\\repo\\ContolesBolsa\\ControlesBolsa\\Shared\\ControlesBolsa.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

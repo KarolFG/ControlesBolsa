@@ -1,0 +1,12 @@
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\bin\Debug\net7.0\ControlesBolsa.Shared.deps.json
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\bin\Debug\net7.0\ControlesBolsa.Shared.dll
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\bin\Debug\net7.0\ControlesBolsa.Shared.pdb
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\ControlesBolsa.Shared.csproj.AssemblyReference.cache
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\ControlesBolsa.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\ControlesBolsa.Shared.AssemblyInfoInputs.cache
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\ControlesBolsa.Shared.AssemblyInfo.cs
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\ControlesBolsa.Shared.csproj.CoreCompileInputs.cache
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\ControlesBolsa.Shared.dll
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\refint\ControlesBolsa.Shared.dll
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\ControlesBolsa.Shared.pdb
+C:\repo\ContolesBolsa\ControlesBolsa\Shared\obj\Debug\net7.0\ref\ControlesBolsa.Shared.dll
