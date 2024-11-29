@@ -9,6 +9,7 @@ obj/
 *.suo 
 *.userosscache 
 *.sln.docstates 
+*.vsidx
 
 # Ignore .NET and Blazor specific files 
 *.swp 
